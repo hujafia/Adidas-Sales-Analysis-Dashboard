@@ -189,7 +189,7 @@ Data Analyst | Power BI | SQL | Python | Excel
 **Brand:** Hujaifa Data Lab
 
 - LinkedIn: [Add your LinkedIn profile URL](https://www.linkedin.com/in/mdhujaifa/)
-- GitHub: [Add your GitHub profile URL]([https://github.com/](https://github.com/hujafia))
+- **GitHub:** [MD Hujaifa](https://github.com/hujafia)
 
 I am passionate about data analytics, business intelligence, and building practical solutions that turn data into meaningful insights.
 
