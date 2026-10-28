@@ -43,7 +43,7 @@ This project addresses the following business questions:
   
 ## Dashboard Preview
 
-![Adidas Sales Performance Dashboard](images/adidas-sales-dashboard.png)
+![Adidas Sales Performance Dashboard](Adidas Sales Analysis Dashboard Image.png)
 
 ## Dataset
 
